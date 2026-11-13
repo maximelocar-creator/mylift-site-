@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["8ZU456SMDD.com.maxime.mylift"],
+        "components": [
+          { "/": "/share/*", "comment": "Programme partagé" },
+          { "/": "/crew/*", "comment": "Séance à plusieurs" },
+          { "/": "/user/*", "comment": "Profil (QR)" }
+        ]
+      }
+    ]
+  }
+}
